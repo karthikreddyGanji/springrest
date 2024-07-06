@@ -16,7 +16,7 @@ public class FirstController {
 	private static final Student Student = null;
 	@GetMapping("/welcome")
 	public String Name() {
-		//test
+		//test kgdgfdhg
 		return "Karthik";
 		
 	}
@@ -88,7 +88,7 @@ public class FirstController {
     	
        
     	
-    	if(a==18) {_
+    	if(a==18) {
     		return "eligle to vote" +a;
     	}else if(a>18) {
     		return "eligle to vote" +a;
